@@ -1,0 +1,18 @@
+fecha: 2026-10-28 16:16:39
+escenario: S2
+caso: B
+escalon_ref_C: [0.0, 5.0]
+T_OP_C: [55.0, 55.0]
+Q_OP_pct: [6.6, 6.6]
+QMIN_QMAX_pct: [0.0, 30.0]
+Kp: [0.27028, 0.4006]
+Ti_s: [180.585, 186.924]
+D: [[1.0, -0.29124], [-1.00924, 1.0]]
+Ts_s: 1.0
+filtro_mediana_N: 5
+t_escalon_s: 1500.013
+T_post_s: 1200.0
+aviso_escalon: escalón sin estado estable (límite 1500 s), T_f = [56.65, 54.11]
+rampa_aprox_C_s: 0.05
+T_max_C: 110.0
+motivo_fin: perfil completo

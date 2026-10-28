@@ -1,0 +1,12 @@
+﻿,inicio,fin,resultado,motivo
+Intento 1,15:23,15:47,INCOMPLETO,lectura físicamente imposible en T2: pendiente -0.22 °C/s (límite físico −0.19 / +1.0 °C/s)
+Intento 2,16:07,16:08,INCOMPLETO,ventana cerrada por el usuario
+Intento 3,16:10,16:12,INCOMPLETO,ventana cerrada por el usuario
+Intento 4,16:14,16:14,INCOMPLETO,"LÍMITE DE TEMPERATURA (110 °C): mediana T1=426.5, T2=425.9 °C"
+Intento 5,16:16,16:21,INCOMPLETO,el calentador 1 no responde: Q1 >= 15 % durante 120 s y T1 subió solo 2.88 °C
+Intento 6,16:32,16:38,INCOMPLETO,el calentador 2 no responde: Q2 >= 15 % durante 120 s y T2 subió solo 2.93 °C
+Intento 7,16:48,16:50,INCOMPLETO,el calentador 1 no responde: Q1 >= 15 % durante 120 s y T1 subió solo -2.15 °C
+Intento 8,16:51,16:58,INCOMPLETO,el calentador 2 no responde: Q2 >= 15 % durante 120 s y T2 subió solo 1.47 °C
+Intento 9,17:13,17:13,INCOMPLETO,"LÍMITE DE TEMPERATURA (110 °C): mediana T1=67.0, T2=112.2 °C"
+Intento 10,17:15,17:19,INCOMPLETO,lectura físicamente imposible en T2: pendiente +1.15 °C/s (límite físico −0.26 / +1.0 °C/s)
+Intento 11,17:49,18:34,COMPLETO,perfil completo

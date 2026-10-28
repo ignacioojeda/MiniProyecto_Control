@@ -1,0 +1,13 @@
+ensayo,tramo,canal,tipo,dQ_pct,dT_C,K_C_por_pct,theta_s,tau_s,nota
+E1,escalon1_Q1,G11,directo,5.0,21.346289655172427,4.269257931034486,47.457856906803386,162.9149003056563,no estacionario al final del tramo (pendiente 0.0114 °C/s); 
+E1,escalon1_Q1,G21,cruzado,5.0,7.3542022988505735,1.4708404597701148,104.59411578818705,206.89777439386452,no estacionario al final del tramo (pendiente 0.0122 °C/s); el tramo anterior no estaba estable (pendiente -0.0129 °C/s); 
+E1,escalon2_Q1,G11,directo,7.0,17.891799999999982,2.555971428571426,12.055112431738621,224.78422148730763,no estacionario al final del tramo (pendiente 0.0140 °C/s); el tramo anterior no estaba estable (pendiente 0.0114 °C/s); 
+E1,escalon2_Q1,G21,cruzado,7.0,9.227800000000009,1.3182571428571441,72.42453433800378,178.43010505147328,no estacionario al final del tramo (pendiente 0.0151 °C/s); el tramo anterior no estaba estable (pendiente 0.0122 °C/s); 
+E1,cruzado_Q2,G12,cruzado,8.0,2.009474999999995,0.25118437499999935,142.06151222329896,10.562942616809451,el tramo anterior no estaba estable (pendiente 0.0140 °C/s); 
+E1,cruzado_Q2,G22,directo,8.0,19.475825000000007,2.434478125000001,13.861704391185242,193.6887773134533,no estacionario al final del tramo (pendiente 0.0108 °C/s); el tramo anterior no estaba estable (pendiente 0.0151 °C/s); 
+E2,escalon1_Q2,G12,cruzado,5.0,4.187999999999999,0.8375999999999998,76.41935304201064,288.4622524252731,no estacionario al final del tramo (pendiente 0.0086 °C/s); 
+E2,escalon1_Q2,G22,directo,5.0,17.61325,3.52265,24.760727423026424,204.53845003752033,no estacionario al final del tramo (pendiente 0.0048 °C/s); 
+E2,escalon2_Q2,G12,cruzado,7.0,4.312809770114935,0.6161156814449907,13.452292741430313,318.0655783863221,no estacionario al final del tramo (pendiente -0.0047 °C/s); el tramo anterior no estaba estable (pendiente 0.0086 °C/s); 
+E2,escalon2_Q2,G22,directo,7.0,10.843044252873582,1.5490063218390833,47.28136520353465,96.98790546028988,el tramo anterior no estaba estable (pendiente 0.0046 °C/s); 
+E2,cruzado_Q1,G11,directo,8.0,20.754341666666676,2.5942927083333345,11.092233099830679,168.9421186222499,el tramo anterior no estaba estable (pendiente -0.0047 °C/s); 
+E2,cruzado_Q1,G21,cruzado,8.0,8.363025000000015,1.0453781250000018,17.89017682512855,337.2637240263498,no estacionario al final del tramo (pendiente 0.0067 °C/s); 

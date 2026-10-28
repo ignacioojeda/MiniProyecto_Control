@@ -1,0 +1,14 @@
+fecha: 2026-10-23 13:36:07
+entrada_principal: Q1
+entrada_cruzada: Q2
+niveles_principal_pct: [5.0, 12.0]
+escalon_cruzado_pct: 8.0
+baseline_s: 60.0
+duracion_tramo_s: 600.0
+Ts_s: 1.0
+t_inicio_tramos_s: [0.316, 60.015, 660.009, 1260.002]
+T_max_C: 100
+T_max_mediana_N: 5
+picos_ignorados: 0
+motivo_fin: perfil completo
+columnas: tiempo_s, fase, Q1_pct, Q2_pct, T1_C, T2_C
